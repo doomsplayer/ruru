@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Proc","`Proc` (works with `Lambda` as well)"]]});
